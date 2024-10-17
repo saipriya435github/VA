@@ -1,1 +1,2 @@
 First file is being created
+Second line is being added by branch called new
